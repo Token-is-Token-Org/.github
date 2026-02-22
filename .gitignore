@@ -65,6 +65,7 @@ pnpm-lock.yaml
 
 # Sisyphus internal (keep plans, ignore evidence temp)
 .sisyphus/evidence/
+.sisyphus/notepads/
 
 # Backup files
 *.bak
