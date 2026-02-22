@@ -2,7 +2,7 @@
 
 [中文](README.md) | [English](README_EN.md) | [日本語](README_JA.md) | [한국어](README_KO.md)
 
-![Logo Placeholder](https://via.placeholder.com/200x200?text=Token-is-Token)
+![Logo Placeholder](./Token-Is-Token.jpg)
 
 ## **Token（LLM）即 Token（ERC20）**
 

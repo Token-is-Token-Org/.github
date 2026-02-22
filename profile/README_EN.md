@@ -2,6 +2,8 @@
 
 # Token is Token
 
+![Logo Placeholder](./Token-Is-Token.jpg)
+
 ### Token (LLM) = Token (ERC20)
 
 Token is Token is a decentralized network built on the 0G Chain. It connects global AI resources by turning Large Language Model (LLM) API consumption into on-chain value.
